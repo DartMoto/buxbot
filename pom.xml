@@ -40,7 +40,7 @@
         <jackson.version>2.10.0.pr1</jackson.version>
         <guice.version>4.1.0</guice.version>
         <commons.configuration>2.1.1</commons.configuration>
-        <commons.beanutils>1.9.3</commons.beanutils>
+        <commons.beanutils>1.9.4</commons.beanutils>
         <joda.version>2.9.9</joda.version>
         <junit.version>4.12</junit.version>
         <mockito.version>1.10.19</mockito.version>
