@@ -42,7 +42,7 @@
         <commons.configuration>2.1.1</commons.configuration>
         <commons.beanutils>1.9.4</commons.beanutils>
         <joda.version>2.9.9</joda.version>
-        <junit.version>4.12</junit.version>
+        <junit.version>4.13.1</junit.version>
         <mockito.version>1.10.19</mockito.version>
     </properties>
 
